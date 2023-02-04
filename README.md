@@ -1,3 +1,1 @@
 # Some text
-
-additional text
